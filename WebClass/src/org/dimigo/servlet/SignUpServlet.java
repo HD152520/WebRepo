@@ -52,7 +52,7 @@ public class SignUpServlet extends HttpServlet {
       String name = request.getParameter("name");
       String nickName = request.getParameter("nickName");
       System.out.printf("email : %s, pwd: %s, name : %s, nickName : %s\n", email, pwd, name, nickName);
-      Boolean result = false;
+      Boolean result = true;
       response.setContentType("application/json;charset=utf-8");
       PrintWriter out = response.getWriter();
       Gson gson = new Gson();

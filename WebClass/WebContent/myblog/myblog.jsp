@@ -45,14 +45,14 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
          <ul class="navbar-nav mr-auto">
-            <li class="nav-item"><a class="nav-link" href="aboutme.html">About
+            <li class="nav-item"><a class="nav-link" href="/myblog/aboutme.html">About
                   Me <span class="sr-only">(current)</span>
             </a></li>
-            <li class="nav-item"><a class="nav-link" href="food.html">Food<span
+            <li class="nav-item"><a class="nav-link" href="/myblog/food.html">Food<span
                   class="sr-only">(current)</span></a></li>
-            <li class="nav-item"><a class="nav-link" href="interest.html">interest</a>
+            <li class="nav-item"><a class="nav-link" href="/myblog/interest.html">interest</a>
             </li>
-            <li class="nav-item"><a class="nav-link" href="dream.html">Dream</a>
+            <li class="nav-item"><a class="nav-link" href="/myblog/dream.html">Dream</a>
             </li>
          </ul>
          <%

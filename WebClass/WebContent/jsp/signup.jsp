@@ -60,7 +60,7 @@
 			function(data) {
                 console.log(data);
                 if(data.result){
-                   location.href='jsp/login.jsp';   
+                   location.href='login.jsp';   
                 }
                 else{
                    console.log(data.email,data.pwd,data.name,data.nickName,data.result);
